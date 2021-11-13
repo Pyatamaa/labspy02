@@ -1,3 +1,7 @@
+Untuk tugas Lab2 ini link repositorynya
+
+https://github.com/Pyatamaa/Lab2.git
+
 
 -Tampilkan "n" bilangan acak yang lebih kecil dari 0,5.
 
